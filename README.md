@@ -8,11 +8,12 @@
 🚀To the moon
 
 ## Experiences and Skills
+- Commercial Software
 - SQL
 - Tableau
 - Python
 - Power Bi
-- Looker
+- Looker Studio
 - Advanced Excel
 - Machine Learning (Regression analysis,PCA, decision trees,random forest and more..)
 - NLP
